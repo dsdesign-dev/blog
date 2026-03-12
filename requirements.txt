@@ -1,0 +1,5 @@
+mkdocs>=1.5
+mkdocs-material>=9.5
+mkdocs-material[imaging]
+mkdocs-rss-plugin
+mkdocs-git-revision-date-localized-plugin
